@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./guilelmiblesens00lohmgoog/guilelmiblesens00lohmgoog_0006.png"; bbox 0 0 2634 3902; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1252 108 1279 338">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1252 108 1279 338">
+     <span class='ocr_line' id='line_1_1' title="bbox 1252 108 1278 228; baseline 0.038 -1"><span class='ocrx_word' id='word_1_1' title='bbox 1252 108 1278 228; x_wconf 64' lang='lat' dir='ltr'>&#39;i</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 1277 252 1279 338; baseline 0 0"><span class='ocrx_word' id='word_1_2' title='bbox 1277 252 1279 338; x_wconf 49' lang='grc' dir='ltr'>ψ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 127 553 1143 677">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 127 461 1283 750">
+     <span class='ocr_line' id='line_1_3' title="bbox 127 553 1143 677; baseline 0.002 -1"><span class='ocrx_word' id='word_1_3' title='bbox 127 553 586 676; x_wconf 72' lang='lat' dir='ltr'>GUILELMI</span> <span class='ocrx_word' id='word_1_4' title='bbox 644 554 1143 677; x_wconf 73' lang='lat' dir='ltr'>BLESENSIS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 288 1047 1286 1208">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 288 1047 1286 1208">
+     <span class='ocr_line' id='line_1_4' title="bbox 288 1047 1286 1208; baseline 0.009 -53"><span class='ocrx_word' id='word_1_5' title='bbox 288 1058 542 1156; x_wconf 80' lang='lat' dir='ltr'><strong>ALDAE</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 588 1057 986 1156; x_wconf 68' lang='lat' dir='ltr'><strong>COMOEDIA</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1101 1203 1105 1208; x_wconf 13' lang='grc' dir='ltr'><strong><em>ι</em></strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1285 1047 1286 1050; x_wconf 7' lang='grc' dir='ltr'><em>Ὗ</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 347 1733 927 1805">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 347 1733 927 1805">
+     <span class='ocr_line' id='line_1_5' title="bbox 347 1733 927 1805; baseline 0.005 -3"><span class='ocrx_word' id='word_1_9' title='bbox 347 1733 586 1804; x_wconf 81' lang='lat' dir='ltr'><strong>CAROLUS</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 618 1734 927 1805; x_wconf 80' lang='lat' dir='ltr'>LOHMEYER</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 534 3172 734 3240">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 534 3172 734 3240">
+     <span class='ocr_line' id='line_1_6' title="bbox 534 3172 734 3240; baseline 0.02 -4"><span class='ocrx_word' id='word_1_11' title='bbox 534 3172 734 3240; x_wconf 81' lang='lat' dir='ltr'><strong>LIPSIAE</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 0 0 1322 3902">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 0 0 1322 3902">
+     <span class='ocr_line' id='line_1_7' title="bbox 0 0 1322 3902; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 0 0 1322 3902; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
